@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentInformaction>
+    <student12>
+        <no>1</no>
+        <name>Smit Joshi</name>
+        <city>Deesa</city>
+    </student>  
+    <student>
+        <no>2</no>
+        <name>Vijay Joshi</name>
+        <city>Patan</city>
+    </student>  
+</StudentInformaction>
+
